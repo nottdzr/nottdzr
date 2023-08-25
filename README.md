@@ -10,8 +10,8 @@
 
 https://github.com/nottdzr/nottdzr/blob/2e645aa9187887ef68bbca3e94365827a880b657/telegram.png
 ## Connect with me:
-[<img align="left" alt="Telegram" width="22px" src="https://github.com/nottdzr/nottdzr/blob/a28eeb85c8b97fda1017085a228804a7032b61f7/telegram.png" />][telegram]
-[<img align="left" alt="LinkedIn" width="22px" src="https://github.com/nottdzr/nottdzr/blob/e869c3d0137d0a54f6653a0f171e73649464b68b/linkedin.png" />][linkedin]
+[<img align="left" alt="Telegram" width="40px" src="https://github.com/nottdzr/nottdzr/blob/a28eeb85c8b97fda1017085a228804a7032b61f7/telegram.png" />][telegram]
+[<img align="left" alt="LinkedIn" width="40px" src="https://github.com/nottdzr/nottdzr/blob/e869c3d0137d0a54f6653a0f171e73649464b68b/linkedin.png" />][linkedin]
 
 <!--
 **nottdzr/nottdzr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
