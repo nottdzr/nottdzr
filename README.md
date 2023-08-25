@@ -10,7 +10,7 @@
 
 
 ## Connect with me:
-<a href="https://t.me/Nottdzr">![Telegram](https://github.com/nottdzr/nottdzr/assets/141838739/a006bc0a-e622-4821-b781-3116041bb7b5)</a>
+[![Telegram][https://github.com/nottdzr/nottdzr/assets/141838739/a006bc0a-e622-4821-b781-3116041bb7b5]][https://t.me/Nottdzr]
 [![174857](https://github.com/nottdzr/nottdzr/assets/141838739/82f17a4a-9f67-403c-9ef3-7399dc4ae593)
 ](https://www.linkedin.com/in/tatiana-pastukhova-5044aa233/)
 <!--
