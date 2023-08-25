@@ -7,6 +7,8 @@
 ## Languages and Tools:
 ![python-logo1](https://github.com/nottdzr/nottdzr/assets/141838739/63d1d1b3-3c60-433c-b94b-b70ab0564eff)
 ![logo-postgresql](https://github.com/nottdzr/nottdzr/assets/141838739/bb28f420-e5cd-46d0-ae3a-4cf393c2cf5a)
+![Tableau-Emblem](https://github.com/nottdzr/nottdzr/assets/141838739/4044fa6f-a7ed-451f-b6c4-c46236c8ab2c)
+
 
 ## Connect with me:
 [<img align="left" alt="Telegram" width="40px" src="https://github.com/nottdzr/nottdzr/blob/a28eeb85c8b97fda1017085a228804a7032b61f7/telegram.png" />][telegram]
