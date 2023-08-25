@@ -8,7 +8,6 @@
 ![python-logo1](https://github.com/nottdzr/nottdzr/assets/141838739/63d1d1b3-3c60-433c-b94b-b70ab0564eff)
 ![logo-postgresql](https://github.com/nottdzr/nottdzr/assets/141838739/bb28f420-e5cd-46d0-ae3a-4cf393c2cf5a)
 
-https://github.com/nottdzr/nottdzr/blob/2e645aa9187887ef68bbca3e94365827a880b657/telegram.png
 ## Connect with me:
 [<img align="left" alt="Telegram" width="40px" src="https://github.com/nottdzr/nottdzr/blob/a28eeb85c8b97fda1017085a228804a7032b61f7/telegram.png" />][telegram]
 [<img align="left" alt="LinkedIn" width="40px" src="https://github.com/nottdzr/nottdzr/blob/e869c3d0137d0a54f6653a0f171e73649464b68b/linkedin.png" />][linkedin]
