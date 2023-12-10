@@ -1,7 +1,7 @@
 ### Hi there, I'm Tatiana Pastukhova 👋
 
-- 🔎 I’m looking for a new role as Data Analyst
-- 👩‍🎓 Completed the Data Analyst Professional Training Cours by Yandex Practicum
+- 🦄 Analyst-trainee at Tinkoff
+- 👩‍🎓 I completed the Data Analyst Professional Training Cours by Yandex Practicum in August'23
 - 🌱 Keep developing my skills at Python and SQL
 
 ## Languages and Tools:
